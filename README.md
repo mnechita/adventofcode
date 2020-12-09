@@ -42,4 +42,4 @@
 | [Day 22: Wizard Simulator 20XX](https://adventofcode.com/2015/day/22)                | [:star:](2015/day22/part1+2.py "code") | [:star2:](2015/day22/part1+2.py "code") |
 | [Day 23: Opening the Turing Lock](https://adventofcode.com/2015/day/23)              | [:star:](2015/day23/part1+2.py "code") | [:star2:](2015/day23/part1+2.py "code") |
 | [Day 24: It Hangs in the Balance](https://adventofcode.com/2015/day/24)              | [:star:](2015/day24/part1+2.py "code") | [:star2:](2015/day24/part1+2.py "code") |
-| [Day 25: Let It Snow](https://adventofcode.com/2015/day/25)                          |  |  |
+| [Day 25: Let It Snow](https://adventofcode.com/2015/day/25)                          | [:star:](2015/day25/part1+2.py "code") | [:star2:](2015/day25/part1+2.py "code") |
