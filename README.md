@@ -40,6 +40,6 @@
 | [Day 20: Infinite Elves and Infinite Houses](https://adventofcode.com/2015/day/20)   | [:star:](2015/day20/part1.py "code")   | [:star2:](2015/day20/part2.py "code")   |
 | [Day 21: RPG Simulator 20XX](https://adventofcode.com/2015/day/21)                   | [:star:](2015/day21/part1.py "code")   | [:star2:](2015/day21/part2.py "code")   |
 | [Day 22: Wizard Simulator 20XX](https://adventofcode.com/2015/day/22)                | [:star:](2015/day22/part1+2.py "code") | [:star2:](2015/day22/part1+2.py "code") |
-| [Day 23: Opening the Turing Lock](https://adventofcode.com/2015/day/23)              |  |  |
-| [Day 24: It Hangs in the Balance](https://adventofcode.com/2015/day/24)              |  |  |
+| [Day 23: Opening the Turing Lock](https://adventofcode.com/2015/day/23)              | [:star:](2015/day23/part1+2.py "code") | [:star2:](2015/day23/part1+2.py "code") |
+| [Day 24: It Hangs in the Balance](https://adventofcode.com/2015/day/24)              | [:star:](2015/day24/part1+2.py "code") | [:star2:](2015/day24/part1+2.py "code") |
 | [Day 25: Let It Snow](https://adventofcode.com/2015/day/25)                          |  |  |
