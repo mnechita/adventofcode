@@ -19,13 +19,13 @@
 ### :city_sunrise: [2016](https://adventofcode.com/2016) :city_sunrise:
 | Puzzle | part 1 | part 2 |
 | ------ |:------:|:------:|
-| [Day 1: No Time for a Taxicab](https://adventofcode.com/2016/day/1)                    | [:star:](2016/day1/part1.py "code") | [:star2:](2016/day1/part2.py "code") |
-| [Day 2: Bathroom Security](https://adventofcode.com/2016/day/2)                        |  |  |
-| [Day 3: Squares With Three Sides](https://adventofcode.com/2016/day/3)                 |  |  |
-| [Day 4: Security Through Obscurity](https://adventofcode.com/2016/day/4)               |  |  |
-| [Day 5: How About a Nice Game of Chess?](https://adventofcode.com/2016/day/5)          |  |  |
-| [Day 6: Signals and Noise](https://adventofcode.com/2016/day/6)                        |  |  |
-| [Day 7: Internet Protocol Version 7](https://adventofcode.com/2016/day/7)              |  |  |
+| [Day 1: No Time for a Taxicab](https://adventofcode.com/2016/day/1)                    | [:star:](2016/day1/part1.py "code")   | [:star2:](2016/day1/part2.py "code")   |
+| [Day 2: Bathroom Security](https://adventofcode.com/2016/day/2)                        | [:star:](2016/day2/part1.py "code")   | [:star2:](2016/day2/part2.py "code")   |
+| [Day 3: Squares With Three Sides](https://adventofcode.com/2016/day/3)                 | [:star:](2016/day3/part1.py "code")   | [:star2:](2016/day3/part2.py "code")   |
+| [Day 4: Security Through Obscurity](https://adventofcode.com/2016/day/4)               | [:star:](2016/day4/part1+2.py "code") | [:star2:](2016/day4/part1+2.py "code") |
+| [Day 5: How About a Nice Game of Chess?](https://adventofcode.com/2016/day/5)          | [:star:](2016/day5/part1.py "code")   | [:star2:](2016/day5/part2.py "code")   |
+| [Day 6: Signals and Noise](https://adventofcode.com/2016/day/6)                        | [:star:](2016/day6/part1+2.py "code") | [:star2:](2016/day6/part1+2.py "code") |
+| [Day 7: Internet Protocol Version 7](https://adventofcode.com/2016/day/7)              | [:star:](2016/day7/part1.py "code")   | [:star2:](2016/day7/part2.py "code")   |
 | [Day 8: Two-Factor Authentication](https://adventofcode.com/2016/day/8)                |  |  |
 | [Day 9: Explosives in Cyberspace](https://adventofcode.com/2016/day/9)                 |  |  |
 | [Day 10: Balance Bots](https://adventofcode.com/2016/day/10)                           |  |  |
