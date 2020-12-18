@@ -16,6 +16,7 @@
 | [Day 9: Encoding Error](https://adventofcode.com/2020/day/9)                           | [:star:](2020/day9/part1+2.py "code") | [:star2:](2020/day9/part1+2.py "code") |
 | [Day 10: Adapter Array](https://adventofcode.com/2020/day/10)                          | [:star:](2020/day10/part1.py "code")  | [:star2:](2020/day10/part2.py "code")  |
 | [Day 11: Seating System](https://adventofcode.com/2020/day/11)                         | [:star:](2020/day11/part1.py "code")  | [:star2:](2020/day11/part2.py "code")  |
+| [Day 12: Rain Risk](https://adventofcode.com/2020/day/12)                              | [:star:](2020/day12/part1.py "code")  | [:star2:](2020/day12/part2.py "code")  |
 
 ### :city_sunrise: [2016](https://adventofcode.com/2016) :city_sunrise:
 | Puzzle | part 1 | part 2 |
