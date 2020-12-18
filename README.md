@@ -5,18 +5,24 @@
 ### :earth_africa: [2020](https://adventofcode.com/2020) :earth_africa:
 | Puzzle | part 1 | part 2 |
 | ------ |:------:|:------:|
-| [Day 1: Report Repair](https://adventofcode.com/2020/day/1)                            | [:star:](2020/day1/part1.py "code")   | [:star2:](2020/day1/part2.py "code")   |
-| [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2)                      | [:star:](2020/day2/part1.py "code")   | [:star2:](2020/day2/part2.py "code")   |
-| [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)                      | [:star:](2020/day3/part1.py "code")   | [:star2:](2020/day3/part2.py "code")   |
-| [Day 4: Passport Processing](https://adventofcode.com/2020/day/4)                      | [:star:](2020/day4/part1.py "code")   | [:star2:](2020/day4/part2.py "code")   |
-| [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)                          | [:star:](2020/day5/part1.py "code")   | [:star2:](2020/day5/part2.py "code")   |
-| [Day 6: Custom Customs](https://adventofcode.com/2020/day/6)                           | [:star:](2020/day6/part1.py "code")   | [:star2:](2020/day6/part2.py "code")   |
-| [Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)                         | [:star:](2020/day7/part1.py "code")   | [:star2:](2020/day7/part2.py "code")   |
-| [Day 8: Handheld Halting](https://adventofcode.com/2020/day/8)                         | [:star:](2020/day8/part1.py "code")   | [:star2:](2020/day8/part2.py "code")   |
-| [Day 9: Encoding Error](https://adventofcode.com/2020/day/9)                           | [:star:](2020/day9/part1+2.py "code") | [:star2:](2020/day9/part1+2.py "code") |
-| [Day 10: Adapter Array](https://adventofcode.com/2020/day/10)                          | [:star:](2020/day10/part1.py "code")  | [:star2:](2020/day10/part2.py "code")  |
-| [Day 11: Seating System](https://adventofcode.com/2020/day/11)                         | [:star:](2020/day11/part1.py "code")  | [:star2:](2020/day11/part2.py "code")  |
-| [Day 12: Rain Risk](https://adventofcode.com/2020/day/12)                              | [:star:](2020/day12/part1.py "code")  | [:star2:](2020/day12/part2.py "code")  |
+| [Day 1: Report Repair](https://adventofcode.com/2020/day/1)                            | [:star:](2020/day1/part1.py "code")    | [:star2:](2020/day1/part2.py "code")    |
+| [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2)                      | [:star:](2020/day2/part1.py "code")    | [:star2:](2020/day2/part2.py "code")    |
+| [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)                      | [:star:](2020/day3/part1.py "code")    | [:star2:](2020/day3/part2.py "code")    |
+| [Day 4: Passport Processing](https://adventofcode.com/2020/day/4)                      | [:star:](2020/day4/part1.py "code")    | [:star2:](2020/day4/part2.py "code")    |
+| [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)                          | [:star:](2020/day5/part1.py "code")    | [:star2:](2020/day5/part2.py "code")    |
+| [Day 6: Custom Customs](https://adventofcode.com/2020/day/6)                           | [:star:](2020/day6/part1.py "code")    | [:star2:](2020/day6/part2.py "code")    |
+| [Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)                         | [:star:](2020/day7/part1.py "code")    | [:star2:](2020/day7/part2.py "code")    |
+| [Day 8: Handheld Halting](https://adventofcode.com/2020/day/8)                         | [:star:](2020/day8/part1.py "code")    | [:star2:](2020/day8/part2.py "code")    |
+| [Day 9: Encoding Error](https://adventofcode.com/2020/day/9)                           | [:star:](2020/day9/part1+2.py "code")  | [:star2:](2020/day9/part1+2.py "code")  |
+| [Day 10: Adapter Array](https://adventofcode.com/2020/day/10)                          | [:star:](2020/day10/part1.py "code")   | [:star2:](2020/day10/part2.py "code")   |
+| [Day 11: Seating System](https://adventofcode.com/2020/day/11)                         | [:star:](2020/day11/part1.py "code")   | [:star2:](2020/day11/part2.py "code")   |
+| [Day 12: Rain Risk](https://adventofcode.com/2020/day/12)                              | [:star:](2020/day12/part1.py "code")   | [:star2:](2020/day12/part2.py "code")   |
+| [Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)                         | [:star:](2020/day13/part1.py "code")   | [:star2:](2020/day13/part2.py "code")   |
+| [Day 14: Docking Data](https://adventofcode.com/2020/day/14)                           | [:star:](2020/day14/part1.py "code")   | [:star2:](2020/day14/part2.py "code")   |
+| [Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15)                | [:star:](2020/day15/part1+2.py "code") | [:star2:](2020/day15/part1+2.py "code") |
+| [Day 16: Ticket Translation](https://adventofcode.com/2020/day/16)                     |  |  |
+| [Day 17: Conway Cubes](https://adventofcode.com/2020/day/17)                           |  |  |
+| [Day 18: Operation Order](https://adventofcode.com/2020/day/18)                        |  |  |
 
 ### :city_sunrise: [2016](https://adventofcode.com/2016) :city_sunrise:
 | Puzzle | part 1 | part 2 |
