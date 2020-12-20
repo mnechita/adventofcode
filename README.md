@@ -20,9 +20,11 @@
 | [Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)                         | [:star:](2020/day13/part1.py "code")   | [:star2:](2020/day13/part2.py "code")   |
 | [Day 14: Docking Data](https://adventofcode.com/2020/day/14)                           | [:star:](2020/day14/part1.py "code")   | [:star2:](2020/day14/part2.py "code")   |
 | [Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15)                | [:star:](2020/day15/part1+2.py "code") | [:star2:](2020/day15/part1+2.py "code") |
-| [Day 16: Ticket Translation](https://adventofcode.com/2020/day/16)                     |  |  |
+| [Day 16: Ticket Translation](https://adventofcode.com/2020/day/16)                     | [:star:](2020/day16/part1+2.py "code") | [:star2:](2020/day16/part1+2.py "code") |
 | [Day 17: Conway Cubes](https://adventofcode.com/2020/day/17)                           |  |  |
 | [Day 18: Operation Order](https://adventofcode.com/2020/day/18)                        |  |  |
+| [Day 19: Monster Messages](https://adventofcode.com/2020/day/19)                       |  |  |
+| [Day 20: Jurassic Jigsaw](https://adventofcode.com/2020/day/20)                        |  |  |
 
 ### :city_sunrise: [2016](https://adventofcode.com/2016) :city_sunrise:
 | Puzzle | part 1 | part 2 |
