@@ -24,7 +24,10 @@
 | [Day 17: Conway Cubes](https://adventofcode.com/2020/day/17)                           | [:star:](2020/day17/part1.py "code")   | [:star2:](2020/day17/part2.py "code")   |
 | [Day 18: Operation Order](https://adventofcode.com/2020/day/18)                        | [:star:](2020/day18/part1.py "code")   | [:star2:](2020/day18/part2.py "code")   |
 | [Day 19: Monster Messages](https://adventofcode.com/2020/day/19)                       | [:star:](2020/day19/part1.py "code")   | [:star2:](2020/day19/part2.py "code")   |
-| [Day 20: Jurassic Jigsaw](https://adventofcode.com/2020/day/20)                        |  |  |
+| [Day 20: Jurassic Jigsaw](https://adventofcode.com/2020/day/20)                        | [:star:](2020/day20/part1.py "code")   | |
+| [Day 21: Allergen Assessment](https://adventofcode.com/2020/day/21)                    | [:star:](2020/day21/part1+2.py "code") | [:star2:](2020/day21/part1+2.py "code") |
+| [Day 22: Crab Combat](https://adventofcode.com/2020/day/22)                            | [:star:](2020/day22/part1.py "code")   | [:star2:](2020/day22/part2.py "code")   |
+| [Day 23: Crab Cups](https://adventofcode.com/2020/day/23)                              | [:star:](2020/day23/part1.py "code")   | [:star2:](2020/day23/part2.py "code")   |
 
 ### :city_sunrise: [2016](https://adventofcode.com/2016) :city_sunrise:
 | Puzzle | part 1 | part 2 |
