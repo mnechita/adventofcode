@@ -29,6 +29,7 @@
 | [Day 22: Crab Combat](https://adventofcode.com/2020/day/22)                            | [:star:](2020/day22/part1.py "code")   | [:star2:](2020/day22/part2.py "code")   |
 | [Day 23: Crab Cups](https://adventofcode.com/2020/day/23)                              | [:star:](2020/day23/part1.py "code")   | [:star2:](2020/day23/part2.py "code")   |
 | [Day 24: Lobby Layout](https://adventofcode.com/2020/day/24)                           | [:star:](2020/day24/part1.py "code")   | [:star2:](2020/day24/part2.py "code")   |
+| [Day 25: Combo Breaker](https://adventofcode.com/2020/day/25)                          | [:star:](2020/day25/part1+2.py "code") | [:star2:](2020/day25/part1+2.py "code") |
 
 ### :city_sunrise: [2016](https://adventofcode.com/2016) :city_sunrise:
 | Puzzle | part 1 | part 2 |
